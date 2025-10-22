@@ -40,8 +40,8 @@ linux-server-automation/
 sudo chmod +x setup_server.sh
 sudo ./setup_server.sh
 This installs all required packages and sets up monitoring.
-
-2️⃣ Verify Monitoring
+```
+### 2️⃣ Verify Monitoring
 Check the log:
 
 ```bash
