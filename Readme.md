@@ -44,8 +44,7 @@ This installs all required packages and sets up monitoring.
 2️⃣ Verify Monitoring
 Check the log:
 
-bash
-```
+```bash
 tail -f /var/log/system_monitor.log
 ```
 Or list your cron jobs:
